@@ -1,4 +1,4 @@
-python==3.9.12
+
 seaborn==0.12.2
 matplotlib==3.6.2
 streamlit==1.27.2
